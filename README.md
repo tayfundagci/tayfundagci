@@ -2,7 +2,7 @@
 ---
 # A passionate frontend developer from Turkey
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/tayfundagcii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayfundagcii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tayfundagci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayfundagci" height="30" width="40" /></a>
