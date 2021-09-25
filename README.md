@@ -1,6 +1,6 @@
 # Hi there, my name is Tayfun 👋
 
-## A passionate frontend developer from Turkey
+## Someone who wants to be a frontend developer
 ---
 <div>
   <img src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif" width="500px" align="right">
