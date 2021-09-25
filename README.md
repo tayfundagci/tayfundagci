@@ -14,9 +14,16 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=tayfundagci&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3>My GitHub Stats :chart_with_upwards_trend:</h3>
+<p align="center"><details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=tayfundagci&theme=tokyonight" >
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfundagci&theme=tokyonight)
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfundagci&langs_count=10&theme=tokyonight&layout=compact" alt="turhansel :: Top Langs" />
+</details></p>
 
 
 
