@@ -1,6 +1,6 @@
 ### Hi there, my name is Tayfun 👋
 ---
-
+# A passionate frontend developer from Turkey
 
 <!--
 **tayfundagci/tayfundagci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
