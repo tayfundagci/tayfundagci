@@ -27,7 +27,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfundagci&langs_count=10&theme=tokyonight&layout=compact" alt="turhansel :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfundagci&langs_count=10&theme=tokyonight&layout=compact" alt="tayfundagci :: Top Langs" />
 </details></p>
 
 
