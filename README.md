@@ -20,7 +20,7 @@
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <p align="center"><details>
-:bulb: Github Stats
+<summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tayfundagci&theme=tokyonight" >
 </details>
 
