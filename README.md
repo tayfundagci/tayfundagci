@@ -19,6 +19,10 @@
 ---
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="50%" /></p>
+
 <p align="center"><details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tayfundagci&theme=tokyonight" >
