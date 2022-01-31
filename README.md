@@ -19,11 +19,11 @@
 ---
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
-<div><row>
+<div class="row">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="50%" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" /></p>
-  </row></div>
+</div>
 
 
 
