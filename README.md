@@ -1,6 +1,5 @@
 # Hi there, my name is Tayfun 👋
 ## Someone who wants to be a frontend developer
-## 🌱 I’m currently learning **React.js**
 
 <div>
 <h3 align="left">Contact me:</h3>
