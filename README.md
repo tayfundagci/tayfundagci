@@ -32,18 +32,10 @@
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <div class="row">
-/* <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" width="45%" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="45%" /></p> */
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" width="45%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="45%" /></p> 
   
-  <p align="center"><details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=GokalpAvcu&theme=tokyonight" >
- </details>
- 
- <details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokalpAvcu&langs_count=10&theme=tokyonight&layout=compact" alt="GokalpAvcu:: Top Langs" />
- </details></p>
+
 
 </div>
 
