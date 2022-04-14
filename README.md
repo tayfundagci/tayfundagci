@@ -36,10 +36,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="45%" /></p> 
   
 
-<h3>Profile Visits</h3>
-![visitors](https://komarev.com/ghpvc/?username=eneszenler&color=blue)
+
   
 </div>
+  
+<h3>Profile Visits</h3>
+  
+![visitors](https://komarev.com/ghpvc/?username=tayfundagci&color=blue)
 
 
 
