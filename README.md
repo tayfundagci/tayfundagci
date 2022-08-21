@@ -1,5 +1,4 @@
 # Hi there, my name is Tayfun 👋
-## Someone who wants to be a frontend developer.
 
 <div>
 <h3 align="left">Contact me:</h3>
