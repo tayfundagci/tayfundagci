@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;C%23+%7C+.NET+Core+%7C+React+%7C+Next.js;WMS%2C+CRM+%26+B2B%2FB2C+e-commerce+apps;From+API+design+to+deployment" alt="Typing SVG" />
 </a>
 
-📍 İzmir, Türkiye &nbsp;•&nbsp; 💼 4+ years of experience &nbsp;•&nbsp; 🏅 Microsoft PL-400 Certified
+📍 İzmir, Türkiye &nbsp;•&nbsp; 💼 4+ years of experience 
 
 <img src="https://komarev.com/ghpvc/?username=tayfundagci&color=58a6ff&style=flat-square&label=Profile+views" alt="profile views" />
 
@@ -82,7 +82,6 @@ Full Stack Developer with **4+ years** of experience building applications with 
 **Platforms, Analytics & Tools**
 <p>
   <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge" alt="Dynamics 365" />
-  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge" alt="Power Platform" />
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4" />
   <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console" />
