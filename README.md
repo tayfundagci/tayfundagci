@@ -36,11 +36,14 @@ Full Stack Developer with **4+ years** of experience building applications with 
 - **CRM:** built from scratch with .NET Core + React, integrated with external systems over SOAP
 - **B2B Web Shop:** maintained and extended a .NET Core + Angular project taken over from an external company
 - **Face Recognition Attendance System:** built together with the AI team to track employee check-in/out
+- **HR Application:** managed maintenance and development of the company's HR project
 - Managed deployments on Windows Server with IIS
 
 **Full Stack Developer** @ **San Tourism Software Group** &nbsp;·&nbsp; _06.2022 – 02.2024 · Antalya_
 - Developed features and fixed bugs on ASP.NET Web Forms, AngularJS and jQuery based B2C & CMS projects
 - Took an active role in migrating them to **React** and **.NET Core** ([b2c.tourvisio.com](https://b2c.tourvisio.com))
+
+**Front-End Developer Intern** @ **San Tourism Software Group** &nbsp;·&nbsp; _02.2022 – 06.2022 · Antalya_
 
 ---
 
@@ -93,7 +96,7 @@ Full Stack Developer with **4+ years** of experience building applications with 
 ## 🎓 Education & Certifications
 
 - 🏅 **Microsoft Certified: Power Platform Developer Associate (PL-400)** — 08.2026
-- 🎓 **Akdeniz University** — Management Information Systems, Faculty of Applied Sciences (2018 – 2022)
+- 🎓 **Akdeniz University** — Management Information Systems, Faculty of Applied Sciences (2018 – 2022) · GPA 3.52
 
 ---
 
