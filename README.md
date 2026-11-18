@@ -47,7 +47,6 @@ Full Stack Developer with **4+ years** of experience building **WMS, CRM and B2B
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge" alt="MSSQL" />
   <img src="https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge" alt="IIS" />
   <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge" alt="Dynamics 365" />
-  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge" alt="Power Platform" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
