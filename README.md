@@ -3,10 +3,10 @@
 # Hi there, I'm Tayfun 👋
 
 <a href="https://github.com/tayfundagci">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+Core+%7C+React+%7C+Next.js+%7C+TypeScript;Building+fast%2C+SEO-friendly+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;C%23+%7C+.NET+Core+%7C+React+%7C+Next.js;WMS%2C+CRM+%26+B2B%2FB2C+e-commerce+apps;From+API+design+to+deployment" alt="Typing SVG" />
 </a>
 
-📍 İzmir, Türkiye &nbsp;•&nbsp; 💼 ~4 years of experience &nbsp;•&nbsp; 🟢 Open to new opportunities
+📍 İzmir, Türkiye &nbsp;•&nbsp; 💼 4+ years of experience &nbsp;•&nbsp; 🏅 Microsoft PL-400 Certified
 
 <img src="https://komarev.com/ghpvc/?username=tayfundagci&color=58a6ff&style=flat-square&label=Profile+views" alt="profile views" />
 
@@ -16,36 +16,84 @@
 
 ## 🧑‍💻 About Me
 
-- 🔧 Full Stack Developer working mainly with **.NET Core**, **React / Next.js** and **TypeScript**
-- 🏢 Previously at **Crm Akademi** (Dynamics 365), **Brands A** and **San Tourism Software Group**
-- 🚀 Comfortable end-to-end: API design, database, frontend, and deployment (Windows Server / IIS, Ubuntu + nginx, Vercel)
-- 📈 Building websites for small businesses with a focus on **technical SEO**, performance and Google Ads integration
-- 🌱 Currently exploring **Unity** and game development on the side
+Full Stack Developer with **4+ years** of experience building applications with **C# / .NET Core** and **React / Next.js**.
+
+- 🏗️ Worked on **WMS, CRM and B2B/B2C e-commerce** applications — architecture, REST/SOAP integrations and new features
+- 🚀 Managed deployments on **Windows Server / IIS**, **Linux / Nginx** and **Vercel**
+- 🔌 Experienced with **Dynamics 365** plugin & workflow development and **Dynamics NAV** SOAP integrations
+- 🤖 Use AI tools like **Claude Code** at the core of my workflow — moving fast while keeping architecture, code review and security under my own control
+
+---
+
+## 💼 Experience
+
+**Software Developer** @ **Crm Akademi** &nbsp;·&nbsp; _02.2026 – 09.2026 · Remote_
+- Development and bug fixing for CRM & ERP customers on **Dynamics 365**
+- Automated business processes with **Plugin** and **Workflow Assembly** development in C# / .NET Framework
+
+**Full Stack Developer** @ **Brands A** &nbsp;·&nbsp; _06.2024 – 02.2026 · İzmir_
+- **Warehouse Management System (WMS):** digitalized stock & shipment processes with .NET Core + React; built an XML-based SOAP integration with Dynamics NAV
+- **CRM:** built from scratch with .NET Core + React, integrated with external systems over SOAP
+- **B2B Web Shop:** maintained and extended a .NET Core + Angular project taken over from an external company
+- **Face Recognition Attendance System:** built together with the AI team to track employee check-in/out
+- Managed deployments on Windows Server with IIS
+
+**Full Stack Developer** @ **San Tourism Software Group** &nbsp;·&nbsp; _06.2022 – 02.2024 · Antalya_
+- Developed features and fixed bugs on ASP.NET Web Forms, AngularJS and jQuery based B2C & CMS projects
+- Took an active role in migrating them to **React** and **.NET Core** ([b2c.tourvisio.com](https://b2c.tourvisio.com))
+
+---
+
+## 🌐 Featured Projects
+
+| Project | What I built | Stack |
+|---|---|---|
+| [**Birlik Direksiyon Sistemleri**](https://birlikdireksiyonsistemleri.com) | SEO-focused corporate site with dynamic sitemap, metadata management and district-based landing page architecture. Also running the Google Ads campaign, GA4, Search Console and DNS / e-mail setup | Next.js · TypeScript · Vercel · Google Ads · GA4 |
+| [**Senda Elektrik**](https://sendaelektrik.com.tr) | Corporate website with an admin panel for content management. Set up the Ubuntu VDS, Nginx reverse proxy and PostgreSQL, and took it live | Next.js · TypeScript · .NET Core Web API · PostgreSQL · Nginx |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,html,css&perline=8" alt="languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,nginx,linux,ubuntu,windows,vercel,git,github&perline=8" alt="tools and platforms" />
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=8" alt="backend" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge" alt="REST" />
+  <img src="https://img.shields.io/badge/SOAP-6C757D?style=for-the-badge" alt="SOAP" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white" alt="Dynamics 365" />
-  <img src="https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="IIS" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,angular,jquery&perline=9" alt="frontend" />
+</p>
+
+**Database & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,linux,ubuntu,nginx,vercel,git,github&perline=8" alt="database and infrastructure" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge" alt="IIS" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge" alt="Windows Server" />
+</p>
+
+**Platforms, Analytics & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
 
-## 🌐 Featured Work
+## 🎓 Education & Certifications
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Senda Elektrik**](https://sendaelektrik.com.tr) | Corporate website with admin panel for an electrical company | Next.js · .NET · PostgreSQL |
-| [**Birlik Direksiyon Sistemleri**](https://birlikdireksiyonsistemleri.com) | Service website for a steering repair shop: local SEO landing pages, blog, Google Ads | Next.js · Vercel |
-| [**Kuşadası Yeminli Tercüme**](https://kusadasiyeminlitercume.com) | Sworn translation office website, 29 language pages, structured data (JSON-LD) | Next.js · Vercel |
+- 🏅 **Microsoft Certified: Power Platform Developer Associate (PL-400)** — 08.2026
+- 🎓 **Akdeniz University** — Management Information Systems, Faculty of Applied Sciences (2018 – 2022)
 
 ---
 
@@ -65,11 +113,9 @@
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tayfundagci/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tayfundagci3517@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/tayfundagci"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- LinkedIn profil linkini aşağıya yaz -->
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- E-posta adresini aşağıya yaz -->
-  <a href="mailto:EPOSTA_ADRESIN"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>⭐ Thanks for stopping by!</i></p>
